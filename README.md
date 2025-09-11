@@ -9,7 +9,6 @@
 #### Potentially put emphasis on team collaboration and cooperation.
 #### Continuously keep up to date with modern technologies frameworks and standards.
 
-<!--
 ## My GitHub Stats 📊
 <p align="center">
 	<a href="https://github.com/spiderman-soft">
@@ -34,4 +33,3 @@
 <p align="center">
 	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/spiderman-soft/count.svg" alt="spiderman-soft's Github visitor Counts" />
 </p>
--->

@@ -1,37 +1,17 @@
-# Hi,there! <img src='https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png' width="40px"/>
+<h2 align="center"> Full Stack Engineer </h2>
 
-![](https://github.com/spiderman-soft/spiderman-soft/blob/main/header.png?raw=true)
+## 👨‍💻 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=matiasoft&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" />
 
-## About me
+Hi, I’m a Full Stack Software Engineer who loves turning ideas into real products.  
+I enjoy building everything from quick prototypes to full-scale applications, always focusing on clean, reliable solutions.  
 
-#### Experienced fullstack engineer with 10+ years of web development experience.
-#### Always love challenges and solving complicated technical issues.
-#### Potentially put emphasis on team collaboration and cooperation.
-#### Continuously keep up to date with modern technologies frameworks and standards.
+I mostly work with **JavaScript/TypeScript** using **React, React Native, Vue, and Nuxt**.  
+I’m also familiar with **PHP and Laravel** on the backend, and I use **TailwindCSS, Material UI, Ant Design, Semantic UI, and Blueprint** to create clean and responsive UIs.  
 
-<!--
-## My GitHub Stats 📊
-<p align="center">
-	<a href="https://github.com/spiderman-soft">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=ionaspaul&title=MultiLanguage,Commits,Stars,Followers,Organizations,Repositories" />
-	</a>
-</p>
-<p align="center">
-	<a href="https://github.com/spiderman-soft">
-		<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=spiderman-soft&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
-	</a>
-	<a href="https://github.com/spiderman-soft">
-		<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=spiderman-soft&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=dracula" alt="spiderman-soft's Github Stats" />
-	</a>
-</p>
-<div align="center" style="font-size: 25px;font-weight: 900;">
-	<p style="font-size: 25px;font-weight: 900;">- My Contributions -</p>
-  <a href="https://github.com/spiderman-soft">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=spiderman-soft&theme=dracula" />
-  </a>
-</div>
+For mobile, I build apps with **React Native, Expo, Styled Components, and Lottie animations**, bringing smooth design and strong performance together.  
 
-<p align="center">
-	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/spiderman-soft/count.svg" alt="spiderman-soft's Github visitor Counts" />
-</p>
--->
+## 🚀 Achievements
+- ⭐ Built and contributed to many **web and cross-platform mobile applications**.  
+- 💡 Helped improve **user experience and business workflows** through well-designed solutions.  
+- 🔧 Always learning and experimenting with new tools to deliver better results.  

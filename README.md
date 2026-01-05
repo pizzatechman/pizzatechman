@@ -23,23 +23,6 @@ My technical expertise centers around **Python** ecosystem, with extensive exper
 - **CI/CD**: GitHub Actions, Jenkins, GitLab CI
 - **Monitoring**: Prometheus, Grafana, ELK Stack
 
-## 📊 Recent Projects & Achievements
-
-### Data Pipeline Architecture
-- Designed and implemented scalable ETL pipelines processing **TB-scale data** daily
-- Reduced data processing latency by **40%** through optimization of Spark jobs and query performance
-- Built real-time data streaming solutions using **Kafka and Apache Flink**
-
-### Cloud Data Infrastructure
-- Migrated on-premise data warehouse to **Snowflake**, improving query performance by **60%**
-- Implemented infrastructure as code for data platform deployment across multiple environments
-- Developed monitoring dashboards that improved system reliability and reduced downtime
-
-### Backend Systems
-- Created microservices handling **10M+ monthly transactions** with 99.9% uptime
-- Built RESTful and GraphQL APIs serving data to frontend applications and external partners
-- Implemented comprehensive testing suites and CI/CD pipelines improving deployment velocity
-
 ## 🎯 Current Focus
 - Exploring **MLOps practices** and scalable machine learning infrastructure
 - Contributing to open-source data engineering tools

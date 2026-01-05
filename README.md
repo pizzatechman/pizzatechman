@@ -1,7 +1,6 @@
 <h2 align="center">Python Developer & Data Engineer</h2>
 
 ## 👨‍💻 Professional Summary
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pizzatechman&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false&hide=contribs" />
 
 Experienced Python Developer and Data Engineer with a passion for building robust data pipelines and scalable applications. I specialize in transforming complex data into actionable insights and creating efficient backend systems that power data-driven decision making.
 
